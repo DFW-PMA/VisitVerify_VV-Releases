@@ -1,0 +1,1 @@
+itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DFW-PMA/VisitVerify_VV-Releases/refs/heads/main/VV_Pre_X.plist
