@@ -11,7 +11,8 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://github.com/DFW-PMA/VisitVerify_VV-Releases/releases/download/VV-281.480/VisitVerify.1.281.281.480.01.25C353.ipa</string>
+                    <string>https://github.com/DFW-PMA/VisitVerify_VV-Releases/releases/download/281.480.1/Payload_VV-281.480.1.ipa</string>
+                <!--<string>https://github.com/DFW-PMA/VisitVerify_VV-Releases/releases/download/VV-281.480/VisitVerify.1.281.281.480.01.25C353.ipa</string> -->
                 <!--<string>https://github.com/DFW-PMA/VisitVerify_VV-Releases/releases/download/VV-281.465/VisitVerify.1.281.281.465.01.25C350.ipa</string> -->
                 <!--<string>https://github.com/DFW-PMA/VisitVerify_VV-Releases/releases/download/Payload_VV-281.386/Payload_VV-281.446.ipa</string> -->
                 <!--<string>https://github.com/DFW-PMA/VisitVerify_VV-Releases/releases/download/VV-281.440/VisitVerify.1.281.281.440.01.25C329.ipa</string> -->
