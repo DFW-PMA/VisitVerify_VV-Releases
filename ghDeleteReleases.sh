@@ -1,6 +1,13 @@
 #!/bin/bash
 #
-# Use this command to get a list of available Releases:
+# This script will delete the GitHub Releases defined in the array 'release_tags'.
+# The script uses the GitHub CLI command 'gh'.
+#
+# Install 'gh' with a HomeBrew command:
+#
+#     > brew install gh
+#
+# Use this 'gh' command to get a list of available Releases:
 #
 #     > gh release list --limit 500 > gh_Release_list.ot1_mmddyyyy.log 2>/dev/null
 #
